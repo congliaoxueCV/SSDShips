@@ -15,4 +15,4 @@ Requests should include your **name**, **institution**, and **intended use** of 
 The dataset is available for **non-commercial research purposes only**.
 
 ## License
-The sample images in this repository are shared under the [LICENSE], and the full dataset requires permission for access.
+The images in this repository are shared under the LICENSE. Access to the full dataset requires prior permission.
